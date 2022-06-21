@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Felipe Garcia Vassallo's personal website. 
+Página web personal que contiene mi material y perfil académico.
