@@ -8,4 +8,4 @@ paperurl: 'http://felipegodi.github.io/files/Altruismo y free riding.pdf'
 ---
 Idea de diseño experimental
 
-[Download paper here](http://felipegodi.github.io/files/Altruismo y free riding.pdf)
+[PDF](http://felipegodi.github.io/files/Altruismo y free riding.pdf)
