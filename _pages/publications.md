@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Proyectos"
+title: "Trabajos"
 permalink: /publications/
 author_profile: true
 ---
