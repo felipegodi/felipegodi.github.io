@@ -16,7 +16,7 @@ Educación
 
 Experiencia laboral
 ======
-* 2022: Profesor de tutoriales
+* 2022: Asistente de magistrales
   * Universidad de San Andrés
   * Materia: Economía Argentina
   * Profesor: Ariel Coremberg
